@@ -1,0 +1,13 @@
+﻿<Window x:Class="ModifiedCaesarCipher.InformationAboutProgramm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ModifiedCaesarCipher"
+        mc:Ignorable="d"
+        Title="InformationAboutProgramm" Height="260" Width="400">
+    <Grid Background="Gray">
+        <TextBlock Text="Курсовой проект по предмету: Защита информации и надежность информационных систем" TextWrapping="Wrap" Width="350"  FontSize="20" Height="100" Margin="25,10,25,74"/>
+        <TextBlock Text="Выполнил студент: Жарихин Александр (ACTPOHOM)" TextWrapping="Wrap" Width="350"  FontSize="20" Height="70" Margin="25,127,25,37"/>
+    </Grid>
+</Window>

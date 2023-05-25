@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vzdc1ISWh2OnSZ22H9G2/y5XvClPgtJXz270cYXIoh1IbEA2jxbewcbao8PF/oslC6lWQIppWs9aFexNokTTUw==",
+  "success": true,
+  "projectFilePath": "D:\\study\\ози КУРСАЧ\\ModifiedCaesarCipher\\ModifiedCaesarCipher\\ModifiedCaesarCipher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\nodatime\\3.1.9\\nodatime.3.1.9.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

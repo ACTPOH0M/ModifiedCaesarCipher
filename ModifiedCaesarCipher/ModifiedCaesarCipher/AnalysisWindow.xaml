@@ -1,0 +1,12 @@
+﻿<Window x:Class="ModifiedCaesarCipher.AnalysisWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ModifiedCaesarCipher"
+        mc:Ignorable="d"
+        Title="AnalysisWindow" Height="450" Width="800">
+    <Grid Background="Gray">
+        <TextBox HorizontalAlignment="Center" FontSize="18" x:Name="IntermediateResult" Background="White" IsReadOnly="True" TextWrapping="Wrap" VerticalAlignment="Center" Height="336" Width="716"/>
+    </Grid>
+</Window>
